@@ -9,4 +9,10 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background:  blue;
+}
+
+.div{
+    background: red;
+    border-radius: 10px;
 }
